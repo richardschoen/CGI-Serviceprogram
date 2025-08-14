@@ -43,6 +43,7 @@ Add the allowed users with the http-admin "Advanced" - "Internet-user"
 5. Start your new http-server
 
 6. Try out the delivered examples:<br>
+The examples uses yajl from scott klement<br>
 
 User informations<br>
 ```https://yourIP:port/targetlib/userinfos?usrcls=secofr&exppwd=1&enabled=0```<br>
